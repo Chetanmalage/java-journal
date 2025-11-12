@@ -1,3 +1,9 @@
+/*
+ Q.2a Create a user-defined package Q_1.
+ Add a class Person inside that package. 
+ Create another class outside the package to use the Person class.
+ */
+
 package Q_1;
 
 public class Person {

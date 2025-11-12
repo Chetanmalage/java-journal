@@ -1,3 +1,8 @@
+/*
+ * Q.3.d A Main class will demonstrate 
+ * how to use these classes that implement the interface.
+ */
+
 package Q_1;
 
 public class Main {

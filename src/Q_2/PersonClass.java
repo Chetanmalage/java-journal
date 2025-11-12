@@ -1,3 +1,7 @@
+/*
+ Q.2b Create another class outside the package to use the Person class.
+ */
+
 package Q_2;
 
 import Q_1.Person;

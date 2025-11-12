@@ -1,3 +1,8 @@
+/*
+ Q.1.b Write a Java program that creates a DisplayInfo class, takes user input (name, age, city, 
+and date of birth), and then displays the information
+*/
+
 package Q_1;
 
 import java.util.Scanner;

@@ -1,3 +1,8 @@
+/*
+ * Q.3.c Two classes, Dog and Cat, will implement this interface 
+ * by providing their own versions of these methods.
+ */
+
 package Q_1;
 
 public class Cat implements Animal {

@@ -1,3 +1,5 @@
+/*Q.1.a To create a class called Calculator that can add two numbers provided by the user. */
+
 package Q_1;
 
 import java.util.Scanner;
