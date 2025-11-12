@@ -1,3 +1,10 @@
+// Q.2 Create a simple digital clock that continuously updates the time 
+// in a separate thread while taking user input
+// for any custom message to display alongside the clock.
+
+
+/*
+ 
 package Q_2;
 
 import javax.swing.*;
@@ -49,3 +56,5 @@ public class DigitalClockDemo extends JFrame implements Runnable {
         });
     }
 }
+
+ */

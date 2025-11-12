@@ -1,6 +1,6 @@
 package Q_2;
 
-// Java program to demonstrate matrix manipulation and sorting.
+// Q.2 Java program to demonstrate matrix manipulation and sorting.
 
 import java.util.Arrays;
 
